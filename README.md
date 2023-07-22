@@ -1,1 +1,3 @@
-# jy3-utils
+# JYYYEUNG Utilities
+
+A random collection of scripts written by myself for myself.
